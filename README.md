@@ -20,7 +20,7 @@
       <img src="https://www.bing.com/th?id=OSK.57952bfd21d9d6a5794fc16ac6c8453f&pid=cdx&w=141&h=189&c=7" alt"Mainframe" width="200" height="100">
       <h2>Micro computer</h2>
       <p>A micro computer is a small, relatively inexpensive computer having a central processing unit (CPU) made out of a microprocessor. The computer also includes memory and input/output (I/O) circuitry together mounted on a printed circuit board (PCB). Micro computers became popular in the 1970s and 1980s with the advent of increasingly powerful microprocessors 1. They are characterized by their small size, low cost, and ease of use. Many micro computers are also used as personal computers. Micro computers are used in a wide range of applications, including home automation, industrial automation, medical devices, and more. Some popular examples of micro computers include the Raspberry Pi, Arduino, and Intel NUC. here is apicture of micro computer. </p>
-      <img src="https://www.bing.com/th?id=OSK.d79583bbda782343a6c70761ee27b816&pid=cdx&w=320&h=180&c=7" alt"Microcomputer" width="200" height="100">
+      <img src="https://www.shutterstock.com/image-photo/desktop-computer-keyboard-mouse-on-white-224908105" alt"Microcomputer" width="200" height="100">
     </main>
   </body>
   </html>
